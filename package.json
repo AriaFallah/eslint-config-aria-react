@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-aria-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriaFallah/eslint-config-aria-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AriaFallah/eslint-config-aria-react/issues"
+  },
+  "homepage": "https://github.com/AriaFallah/eslint-config-aria-react#readme",
+  "dependencies": {
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^5.0.1"
+  }
+}

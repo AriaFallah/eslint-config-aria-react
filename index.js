@@ -1,7 +1,7 @@
 module.exports = {
   "plugins": ["react"],
   "rules": {
-    "react/display-name": [2, { "ignoreTranspilerName": 2 }],
+    "react/display-name": [0, { "ignoreTranspilerName": false }],
     "react/no-danger": 2,
     "react/no-deprecated": 1,
     "react/no-did-mount-set-state": 2,

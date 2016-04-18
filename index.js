@@ -18,7 +18,7 @@ module.exports = {
     "react/require-render-return": 2,
     "react/self-closing-comp": 1,
     "react/sort-comp": 1,
-    "react/wrap-multilines": [2, { declaration: false, assignment: false, return: true }]
+    "react/wrap-multilines": [2, { declaration: false, assignment: false, return: true }],
     "react/jsx-closing-bracket-location": 1,
     "react/jsx-curly-spacing": [2, "never"],
     "react/jsx-equals-spacing": [2, "never"],

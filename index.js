@@ -10,7 +10,6 @@ module.exports = {
     "react/jsx-indent-props": [2, 2],
     "react/jsx-key": 1,
     "react/jsx-no-bind": 2,
-    "react/jsx-no-duplicate-props": 2,
     "react/jsx-no-undef": 2,
     "react/jsx-pascal-case": 2,
     "react/jsx-space-before-closing": [2, "always"],

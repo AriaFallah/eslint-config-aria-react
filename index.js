@@ -30,7 +30,6 @@ module.exports = {
     "react/react-in-jsx-scope": 2,
     "react/require-render-return": 2,
     "react/self-closing-comp": 1,
-    "react/sort-comp": 1,
     "react/wrap-multilines": [2, { declaration: false, assignment: false, return: true }]
   }
 }
